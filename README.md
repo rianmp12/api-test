@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação web desenvolvida com **FastAPI** no backend e **Vue.js** no frontend. A API realiza buscas de operadoras de planos de saúde a partir de um arquivo CSV, e a interface permite consultas interativas com a API.
 
+![Visão geral do projeto](images/1.png)
+
 ## Tecnologias Utilizadas
 
 - **Backend:**

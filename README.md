@@ -2,6 +2,9 @@
 
 Este projeto é uma aplicação web desenvolvida com **FastAPI** no backend e **Vue.js** no frontend. A API realiza buscas de operadoras de planos de saúde a partir de um arquivo CSV, e a interface permite consultas interativas com a API.
 
+![Visão geral do projeto](images/1.png)
+A pasta `images` contém a visualização completa do projeto.
+
 ## Tecnologias Utilizadas
 
 - **Backend:**
@@ -79,7 +82,7 @@ Para importar a coleção do Postman, siga os passos abaixo:
 
 1. Abra o Postman.
 2. Clique em "Import" no canto superior esquerdo.
-3. Selecione "File" e escolha o arquivo `api-operadoras.postman_collection.json` localizado na pasta `postman/` do projeto.
+3. Selecione "File" e escolha o arquivo `Search_system.postman_collection.json` localizado na pasta `postman/` do projeto.
 4. Clique em "Import" para adicionar a coleção à sua área de trabalho do Postman.
 
 ## ✅ Requisitos Atendidos

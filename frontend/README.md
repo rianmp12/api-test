@@ -1,24 +1,8 @@
-# frontend
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Visualização do processo de busca
+![1](../images/2.png)
+---
+![1](../images/3.png)
+---
+![1](../images/4.png)
+---
+![1](../images/5.png)

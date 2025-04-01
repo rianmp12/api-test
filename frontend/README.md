@@ -1,5 +1,4 @@
 # Visualização do processo de busca
----
 ![1](../images/2.png)
 ---
 ![1](../images/3.png)

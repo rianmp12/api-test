@@ -82,7 +82,7 @@ Para importar a coleção do Postman, siga os passos abaixo:
 
 1. Abra o Postman.
 2. Clique em "Import" no canto superior esquerdo.
-3. Selecione "File" e escolha o arquivo `api-operadoras.postman_collection.json` localizado na pasta `postman/` do projeto.
+3. Selecione "File" e escolha o arquivo `Search_system.postman_collection.json` localizado na pasta `postman/` do projeto.
 4. Clique em "Import" para adicionar a coleção à sua área de trabalho do Postman.
 
 ## ✅ Requisitos Atendidos
